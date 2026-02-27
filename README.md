@@ -1,16 +1,36 @@
-## Hi there 👋
+# Abdurahman Muse
 
-<!--
-**HudiJr/HudiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | C & Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+
+I am a first-year Software Engineering student focused on building a strong foundation in computer science and software development.
+
+I actively practice programming, improve my problem-solving skills, and build structured projects to strengthen my technical background.
+
+---
+
+## Technical Skills
+
+- C Programming (arrays, loops, conditionals, functions)
+- Python (beginner, actively learning)
+- Git & GitHub
+
+---
+
+## Current Focus
+
+- Writing clean and structured C programs
+- Improving algorithmic thinking
+- Building consistent GitHub projects
+
+---
+
+## Goals
+
+- Master C programming
+- Advance in Python
+- Build a strong software development portfolio
+- Contribute to open-source projectszz

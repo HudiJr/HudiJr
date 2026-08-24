@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Hudi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Hudijr%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=2.+S%C4%B1n%C4%B1f+Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;1.S%C4%B1n%C4%B1fta+C+G%C3%B6rd%C3%BCk,+%C5%9Eimdi+Python+ve+Web+%C3%87al%C4%B1%C5%9F%C4%B1yorum;Yeni+teknolojiler+%C3%B6%C4%9Frenmeye+devam+ediyorum+%F0%9F%9A%80" alt="Typing SVG" />

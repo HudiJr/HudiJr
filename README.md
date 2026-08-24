@@ -13,7 +13,7 @@
 
 <br>
 
-isim:       Hudi
+isim:       Abdurahman A. Muse
 rol:        Yazılım Mühendisliği Öğrencisi
 odak:       C · Python · Web Teknolojileri
 şu_an:      Python öğreniyor ve web projeleri geliştiriyor

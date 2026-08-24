@@ -53,7 +53,7 @@ Diller & Teknolojiler
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hudi_jr7&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HudiJr&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
   
   <br>
   
